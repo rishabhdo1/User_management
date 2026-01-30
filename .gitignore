@@ -1,0 +1,7 @@
+# Ignore environment variable files
+.env
+package-lock.json
+package.json
+*node_modules/
+testDb.js m
+.vscode/
